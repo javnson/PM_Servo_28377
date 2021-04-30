@@ -1,4 +1,4 @@
-TMS320C2000 Assembler PC v20.2.2 Sat Apr 24 17:20:42 2021
+TMS320C2000 Assembler PC v20.2.2 Fri Apr 30 13:07:35 2021
 
 Copyright (c) 1996-2018 Texas Instruments Incorporated
 ../F2837xD_usDelay.asm                                               PAGE    1
@@ -58,7 +58,7 @@ Copyright (c) 1996-2018 Texas Instruments Incorporated
       52              ;  DELAY_CPU_CYCLES = 9 + 5*LoopCount
       53              ; LoopCount = (DELAY_CPU_CYCLES - 9) / 5
       54              ; The macro DELAY_US(A) performs this calculation for you
-TMS320C2000 Assembler PC v20.2.2 Sat Apr 24 17:20:42 2021
+TMS320C2000 Assembler PC v20.2.2 Fri Apr 30 13:07:35 2021
 
 Copyright (c) 1996-2018 Texas Instruments Incorporated
 ../F2837xD_usDelay.asm                                               PAGE    2

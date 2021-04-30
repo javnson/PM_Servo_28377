@@ -54,13 +54,6 @@
 									<listOptionValue builtIn="false" value="C:\ti\controlSUITE\libs\app_libs\position_manager\v01_00_00_00\endat22\Float\include"/>
 									<listOptionValue builtIn="false" value="C:\ti\controlSUITE\libs\math\IQmath\v160\include"/>
 									<listOptionValue builtIn="false" value="&quot;${PROJECT_LOC}\utility Src Files&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${RESOLVER_LIB_INSTALL_ROOT}\include&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${F2837x_INSTALL_ROOT}\F2837xD_headers\include&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${F2837x_INSTALL_ROOT}\F2837xD_common\include&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${MOTOR_LIB_INSTALL_ROOT}\math_blocks\v4.3&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${PMLIB_INSTALL_ROOT}\endat22\Float\include&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${PMLIB_INSTALL_ROOT}\bissc\Float\include&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${IQMATH_INSTALL_ROOT}\include&quot;"/>
 								</option>
 								<option id="com.ti.ccstudio.buildDefinitions.C2000_6.4.compilerID.DEBUGGING_MODEL.1063344338" name="Debugging model" superClass="com.ti.ccstudio.buildDefinitions.C2000_6.4.compilerID.DEBUGGING_MODEL" value="com.ti.ccstudio.buildDefinitions.C2000_6.4.compilerID.DEBUGGING_MODEL.SYMDEBUG__DWARF" valueType="enumerated"/>
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="com.ti.ccstudio.buildDefinitions.C2000_6.4.compilerID.DEFINE.129217918" name="Pre-define NAME (--define, -D)" superClass="com.ti.ccstudio.buildDefinitions.C2000_6.4.compilerID.DEFINE" valueType="definedSymbols">

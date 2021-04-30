@@ -1,6 +1,6 @@
 ;***************************************************************
 ;* TMS320C2000 G3 C/C++ Codegen                               PC v20.2.2.LTS *
-;* Date/Time created: Sat Apr 24 17:20:39 2021                 *
+;* Date/Time created: Fri Apr 30 13:07:33 2021                 *
 ;***************************************************************
 	.compiler_opts --abi=coffabi --cla_support=cla0 --float_support=fpu32 --hll_source=on --mem_model:code=flat --mem_model:data=large --object_format=coff --quiet --silicon_errata_fpu1_workaround=off --silicon_version=28 --symdebug:dwarf --symdebug:dwarf_version=3 --tmu_support=tmu0 --vcu_support=vcu2 
 	.asg	XAR2, FP
@@ -38,8 +38,8 @@ $C$DW$4	.dwtag  DW_TAG_variable
 	.dwattr $C$DW$4, DW_AT_declaration
 	.dwattr $C$DW$4, DW_AT_external
 
-;	C:\ti\ccs1020\ccs\tools\compiler\ti-cgt-c2000_20.2.2.LTS\bin\opt2000.exe C:\\Users\\JavnSon\\AppData\\Local\\Temp\\{065E1A2F-F26A-46FA-9737-188171FE2D0A} C:\\Users\\JavnSon\\AppData\\Local\\Temp\\{2AB4F9C4-3544-4965-BB15-6BFFF4C76A58} 
-;	C:\ti\ccs1020\ccs\tools\compiler\ti-cgt-c2000_20.2.2.LTS\bin\ac2000.exe -@C:\\Users\\JavnSon\\AppData\\Local\\Temp\\{A5088601-77BC-4E85-8122-A9CB977372DC} 
+;	C:\ti\ccs1020\ccs\tools\compiler\ti-cgt-c2000_20.2.2.LTS\bin\opt2000.exe C:\\Users\\JavnSon\\AppData\\Local\\Temp\\{8C732D4F-E3C9-498D-8C88-9322484094E3} C:\\Users\\JavnSon\\AppData\\Local\\Temp\\{5A54AFA5-4397-410E-8958-A276CFF77EF4} 
+;	C:\ti\ccs1020\ccs\tools\compiler\ti-cgt-c2000_20.2.2.LTS\bin\ac2000.exe -@C:\\Users\\JavnSon\\AppData\\Local\\Temp\\{BBDDEAF7-9B11-4F3B-98F6-E89EA7278014} 
 	.sect	".text"
 	.clink
 	.global	_InitGpio

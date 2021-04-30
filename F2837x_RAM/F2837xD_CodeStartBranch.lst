@@ -1,4 +1,4 @@
-TMS320C2000 Assembler PC v20.2.2 Sat Apr 24 17:20:36 2021
+TMS320C2000 Assembler PC v20.2.2 Fri Apr 30 13:07:29 2021
 
 Copyright (c) 1996-2018 Texas Instruments Incorporated
 ../F2837xD_CodeStartBranch.asm                                       PAGE    1
@@ -58,7 +58,7 @@ Copyright (c) 1996-2018 Texas Instruments Incorporated
       52                  .else
       53                      LB _c_int00         ;Branch to start of boot._asm in RTS library
       54                  .endif
-TMS320C2000 Assembler PC v20.2.2 Sat Apr 24 17:20:36 2021
+TMS320C2000 Assembler PC v20.2.2 Fri Apr 30 13:07:29 2021
 
 Copyright (c) 1996-2018 Texas Instruments Incorporated
 ../F2837xD_CodeStartBranch.asm                                       PAGE    2
